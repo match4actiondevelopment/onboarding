@@ -1,2 +1,7 @@
-# onboarding
-Onbording orientations for new members
+# Welcome to the Match4Action Dev Team!
+
+## Our kanban workflow
+<img src="./diagrams/kanban.jpg" width="800" height="350">
+
+## Our code workflow + CI/CD
+
