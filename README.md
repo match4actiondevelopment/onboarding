@@ -10,5 +10,16 @@
 🚀 Waiting for Deploy to PROD: features ready to be deployed into production (we don't have a production env yet)  <br>
 💪 Done  
 
-## Our code workflow + CI/CD
+## Source Version Control 
+
+We are using GitFlow! 
+More about it, check it out: https://danielkummer.github.io/git-flow-cheatsheet/index.html
+Our definitions for GitFlow:
+- our production branch: **main**
+- our develop branch: **development**
+
+When the development branch is updated, the application deployed in the cloud is automatically updated:
+https://match4action.vercel.app/
+
+
 
