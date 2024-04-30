@@ -14,6 +14,7 @@
 
 We are using GitFlow! 
 More about it, check it out: https://danielkummer.github.io/git-flow-cheatsheet/index.html
+  
 Our definitions for GitFlow:
 - our production branch: **main**
 - our develop branch: **development**
