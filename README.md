@@ -22,5 +22,7 @@ Our definitions for GitFlow:
 When the development branch is updated, the application deployed in the cloud is automatically updated:
 https://match4action.vercel.app/
 
+We  work in pairs, so that one can review the work of the other, using Push Request.
 
-
+Conversation in the future:
+https://www.conventionalcommits.org/en/v1.0.0/
